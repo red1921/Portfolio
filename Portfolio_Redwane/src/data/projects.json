@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Pelican Doré",
+    "imageSrc": "projects/project.png",
+    "description": "Ce projet consistait à reproduire le jeu du \"Pelican Doré\", un jeu de hasard mathématique du moyen âge, en moins de 4h.",
+    "skills": ["PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/EpitechWebAcademiePromo2026/W-COL-501-PAR-1-1-pelican-redwane.boualam"
+  },
+  {
+    "title": "Tweet Academie",
+    "imageSrc": "projects/project.png",
+    "description": "Ce projet avait pour but de nous faire reproduire le site \"X\" en groupe de 4 avec une base de données fixe.",
+    "skills": [ "PHP", "SASS", "MYSQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/EpitechWebAcademiePromo2026/W-WEB-090-PAR-1-1-academie-valeria.girtie"
+  }
+
+]
